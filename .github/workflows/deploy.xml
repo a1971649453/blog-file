@@ -3,7 +3,7 @@ name: GitHub Page
 on:
     push:
         branches:
-            - main # main 更新触发
+            - master # main 更新触发
 
 jobs:
     deploy:
